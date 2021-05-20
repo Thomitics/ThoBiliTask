@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Bilibili助手</h1>
-<img src="https://img.shields.io/github/issues/srcrs/BilibiliTask?color=green">
-<img src="https://img.shields.io/github/stars/srcrs/BilibiliTask?color=yellow">
-<img src="https://img.shields.io/github/forks/srcrs/BilibiliTask?color=orange">
-<img src="https://img.shields.io/github/license/srcrs/BilibiliTask?color=ff69b4">
-<img src="https://img.shields.io/github/search/srcrs/BilibiliTask/main?color=blue">
-<img src="https://img.shields.io/github/v/release/srcrs/BilibiliTask?color=blueviolet">
-<img src="https://img.shields.io/github/languages/code-size/srcrs/BilibiliTask?color=critical">
+<img src="https://img.shields.io/github/issues/Thomitics/ThoBiliTask?color=green">
+<img src="https://img.shields.io/github/stars/Thomitics/ThoBiliTask?color=yellow">
+<img src="https://img.shields.io/github/forks/Thomitics/ThoBiliTask?color=orange">
+<img src="https://img.shields.io/github/license/Thomitics/ThoBiliTask?color=ff69b4">
+<img src="https://img.shields.io/github/search/Thomitics/ThoBiliTask/main?color=blue">
+<img src="https://img.shields.io/github/v/release/Thomitics/ThoBiliTask?color=blueviolet">
+<img src="https://img.shields.io/github/languages/code-size/Thomitics/ThoBiliTask?color=critical">
 </div>
 
 # 简介
