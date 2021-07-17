@@ -10,9 +10,7 @@ autoBiCoin: 1
 platform: android
 #自定义优先给这些 up 的视频投币 , 以yml数组的形式 , 填写其 uid (mid)
 upList: 
-  - 11073
-  - 11253297
-  - 282994
+  - 477332594
 #进行漫画签到任务 [true,false]
 manga: true
 #优先送出即将过期礼物给此up的直播间,填写其 uid
